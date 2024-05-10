@@ -1,6 +1,6 @@
 React Zoom Pan Pitch  - full screen fix
 live site
-# [http://siyamul.com](https://soft-fenglisu-dcb6b6.netlify.app/)
+# [https://soft-fenglisu-dcb6b6.netlify.app/](https://soft-fenglisu-dcb6b6.netlify.app/)
 
 light mode
 
